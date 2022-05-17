@@ -12,3 +12,9 @@
 
 
 [Пример моего тест-плана](https://docs.google.com/document/d/1wxynNXaUPM4-qaeCwNpz9l3tNIgVnEpl/edit?usp=sharing&ouid=103830992501795241715&rtpof=true&sd=true)
+
+
+---
+
+
+[Отчет о тестировании ранней альфа-версии мобильной игры под OS Android](https://drive.google.com/file/d/1MT-yEWwMlmlYdvImCZSpE-EZYHvZRTZ0/view?usp=sharing)
